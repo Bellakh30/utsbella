@@ -12,8 +12,7 @@ body {
             padding: 10px;
         }
         .navbar .logo {
-            height: 90px; 
-            margin-right: 
+            height: 90px;  
         }
         .navbar h3 {
             color: darkblue;
@@ -25,7 +24,7 @@ body {
             color: darkblue;
             text-decoration: none;
             padding: 10px 20px;
-            margin-right: 50px;
+            margin-right: 20px;
             text-decoration-line: underline;
         }
         .menu a:hover {
